@@ -1,4 +1,4 @@
-# lumalaxy
+# lumalaxy - the open source video hosting platform
 
 ## Project setup
 ```
